@@ -52,6 +52,10 @@ Want to add something to the list? Just send a PR :smiley:
 | Orange Pi 5 Plus — experimental Rockchip BSP kernel | [BadBeta/nerves_experimental_radxa_orange_pi_5_plus_frankenbuild](https://github.com/BadBeta/nerves_experimental_radxa_orange_pi_5_plus_frankenbuild) | 1.33.0 |
 | LicheePi Zero | [x4lldux/nerves_system_licheepi_zero](https://github.com/x4lldux/nerves_system_licheepi_zero) | 1.19.0 |
 | FriendlyElec NanoPi NEO2 | [uptimedk/nerves_system_nanopi_neo2](https://github.com/uptimedk/nerves_system_nanopi_neo2) | 1.9.2 |
+| Sipeed Lichee Nano — 32 MB RAM, requires swap | [ConnorRigby/nerves_system_lichee_nano](https://github.com/ConnorRigby/nerves_system_lichee_nano) | 1.11.0 |
+| Google Coral Dev Board | [ConnorRigby/nerves_system_coral](https://github.com/ConnorRigby/nerves_system_coral) | 1.28.2 |
+| NVIDIA Jetson Nano Developer Kit (4 GB) | [ConnorRigby/nerves_system_jetson_nano](https://github.com/ConnorRigby/nerves_system_jetson_nano) | 1.14.4 |
+| BeagleBone with CAN interfaces enabled | [ConnorRigby/nerves_system_bbb_can](https://github.com/ConnorRigby/nerves_system_bbb_can) | 1.18.6 |
 
 ## Miscellaneous
 
@@ -69,3 +73,4 @@ Want to add something to the list? Just send a PR :smiley:
 | OpenWrt One router | [Hermanverschooten/nerves_system_openwrt_one](https://github.com/Hermanverschooten/nerves_system_openwrt_one) | 1.33.7 |
 | JSLinux browser emulator | [fhunleth/nerves_system_jslinux](https://github.com/fhunleth/nerves_system_jslinux) | 1.21.2 |
 | Yokogawa e-RT3 F3RP70 industrial controller | [pojiro/nerves_system_f3rp70](https://github.com/pojiro/nerves_system_f3rp70) | 1.20.3 |
+| ConeRGB Underglow3 LED controller | [ConnorRigby/nerves_system_underglow3](https://github.com/ConnorRigby/nerves_system_underglow3) | 1.27.0 |

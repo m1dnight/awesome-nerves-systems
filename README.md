@@ -69,4 +69,3 @@ Want to add something to the list? Just send a PR :smiley:
 | OpenWrt One router | [Hermanverschooten/nerves_system_openwrt_one](https://github.com/Hermanverschooten/nerves_system_openwrt_one) | 1.33.7 |
 | JSLinux browser emulator | [fhunleth/nerves_system_jslinux](https://github.com/fhunleth/nerves_system_jslinux) | 1.21.2 |
 | Yokogawa e-RT3 F3RP70 industrial controller | [pojiro/nerves_system_f3rp70](https://github.com/pojiro/nerves_system_f3rp70) | 1.20.3 |
-| Seeed EdgeBox-RPI-200 | [pojiro/custom_rpi4_for_edgebox_rpi_200](https://github.com/pojiro/custom_rpi4_for_edgebox_rpi_200) | 1.24.1 |

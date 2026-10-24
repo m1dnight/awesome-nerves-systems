@@ -4,6 +4,8 @@ Nerves has been brought to a variety of devices over the years. These systems ar
 
 This file centralizes where these systems are so people can use them, pick up where they left off, or simply learn from them.
 
+Want to add something to the list? Just send a PR :smiley:
+
 ## Smartphones and Tablets
 
 | Device name | Nerves system | `nerves_system_br` version |

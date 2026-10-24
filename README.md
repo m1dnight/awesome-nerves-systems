@@ -51,4 +51,5 @@ Want to add something to the list? Just send a PR :smiley:
 | Luckfox Pico Mini | [aiotter/nerves_system_luckfox_pico](https://github.com/aiotter/nerves_system_luckfox_pico) | 1.33.2 |
 | MangoPi MQ Pro | [nerves-project/nerves_system_mangopi_mq_pro](https://github.com/nerves-project/nerves_system_mangopi_mq_pro) | 1.35.3 |
 | JSLinux browser emulator | [fhunleth/nerves_system_jslinux](https://github.com/fhunleth/nerves_system_jslinux) | 1.21.2 |
+| Pine64+ (with Wi-Fi / Bluetooth module) | [Spin42/nerves_system_pine64_plus](https://github.com/Spin42/nerves_system_pine64_plus) | ~> 1.32 (locked to 1.32.3) |
 

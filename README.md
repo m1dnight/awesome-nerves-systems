@@ -13,8 +13,8 @@ Want to add something to the list? Just send a PR :smiley:
 | Fairphone 2 | [Spin42/nerves_system_fairphone2](https://github.com/Spin42/nerves_system_fairphone2) | 1.33.8 |
 | Fairphone 3 / 3+ | [mlainez/nerves_system_fp3](https://github.com/mlainez/nerves_system_fp3) | 1.35.0 |
 | HTC Desire | [arjan/nerves_system_bravo](https://github.com/arjan/nerves_system_bravo) | 1.34.4 |
-| Samsung Galaxy Express SGH-I437 | [mlainez/nerves_system_samsung_expressatt](https://github.com/mlainez/nerves_system_samsung_expressatt) | 1.35.0 |
-| Samsung Galaxy S III Neo GT-I9301I | [mlainez/nerves_system_s3ve3g](https://github.com/mlainez/nerves_system_s3ve3g) | 1.34.4 |
+| Samsung Galaxy Express SGH-I437 | [mlainez/nerves_system_samsung_expressatt](https://github.com/mlainez/nerves_system_samsung_expressatt) | 1.35.3 |
+| Samsung Galaxy S III Neo GT-I9301I | [mlainez/nerves_system_s3ve3g](https://github.com/mlainez/nerves_system_s3ve3g) | 1.35.3 |
 | ASUS / Google Nexus 7 (2012) | [arjan/nerves_system_nexus7](https://github.com/arjan/nerves_system_nexus7) | 1.34.4 |
 | ASUS / Google Nexus 7 (2012, Grouper) | [Spin42/nerves_system_grouper](https://github.com/Spin42/nerves_system_grouper) | 1.29.3 |
 | Lenovo Tab3 7 Essential TB3-710F | [mlainez/nerves_system_lenovo_tb3_710f](https://github.com/mlainez/nerves_system_lenovo_tb3_710f) | 1.35.0 |
@@ -48,7 +48,7 @@ Want to add something to the list? Just send a PR :smiley:
 | STMicroelectronics STM32MP157F-DK2 | [tomazbracic/nerves_system_stm32mp157f_dk2](https://github.com/tomazbracic/nerves_system_stm32mp157f_dk2) | ~> 1.28 (locked to 1.33.4) |
 | Radxa ROCK 5B+ | [gBillal/nerves_system_rock_5b_plus](https://github.com/gBillal/nerves_system_rock_5b_plus) | 1.32.3 |
 | Radxa ROCK 5T | [BadBeta/base_radxa_rock_5t_nerves_GPU_NPU_VPU](https://github.com/BadBeta/base_radxa_rock_5t_nerves_GPU_NPU_VPU) | 1.33.0 |
-| Orange Pi 5 Plus — mainline kernel | [lawik/nerves_system_orange_pi5_plus](https://github.com/lawik/nerves_system_orange_pi5_plus) | ~> 1.34 |
+| Orange Pi 5 Plus — mainline kernel | [lawik/nerves_system_orange_pi5_plus](https://github.com/lawik/nerves_system_orange_pi5_plus) | ~> 1.34 (locked to 1.34.1) |
 | Orange Pi 5 Plus — experimental Rockchip BSP kernel | [BadBeta/nerves_experimental_radxa_orange_pi_5_plus_frankenbuild](https://github.com/BadBeta/nerves_experimental_radxa_orange_pi_5_plus_frankenbuild) | 1.33.0 |
 | LicheePi Zero | [x4lldux/nerves_system_licheepi_zero](https://github.com/x4lldux/nerves_system_licheepi_zero) | 1.19.0 |
 | FriendlyElec NanoPi NEO2 | [uptimedk/nerves_system_nanopi_neo2](https://github.com/uptimedk/nerves_system_nanopi_neo2) | 1.9.2 |

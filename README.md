@@ -56,6 +56,7 @@ Want to add something to the list? Just send a PR :smiley:
 | Sipeed Lichee Nano — 32 MB RAM, requires swap | [ConnorRigby/nerves_system_lichee_nano](https://github.com/ConnorRigby/nerves_system_lichee_nano) | 1.11.0 |
 | Google Coral Dev Board | [ConnorRigby/nerves_system_coral](https://github.com/ConnorRigby/nerves_system_coral) | 1.28.2 |
 | NVIDIA Jetson Nano Developer Kit (4 GB) | [ConnorRigby/nerves_system_jetson_nano](https://github.com/ConnorRigby/nerves_system_jetson_nano) | 1.14.4 |
+| NVIDIA Jetson Nano Okdo C100 (4GB) | [Spin42/nerves_system_okdo_c100](https://github.com/Spin42/nerves_system_okdo_c100) | 1.35.3 |
 
 ## Miscellaneous
 
